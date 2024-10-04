@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Sesion14\\Archivos\\ArchivosVisual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2322E34F-308C-4AA4-8AD3-6ECB297F9F7E}|ArchivosVisual\\ArchivosVisual.csproj|c:\\users\\usuario\\onedrive\\escritorio\\sesion14\\archivos\\archivosvisual\\archivosvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2322E34F-308C-4AA4-8AD3-6ECB297F9F7E}|ArchivosVisual\\ArchivosVisual.csproj|solutionrelative:archivosvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2322E34F-308C-4AA4-8AD3-6ECB297F9F7E}|ArchivosVisual\\ArchivosVisual.csproj|C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Sesion14\\Archivos\\ArchivosVisual\\archivosvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2322E34F-308C-4AA4-8AD3-6ECB297F9F7E}|ArchivosVisual\\ArchivosVisual.csproj|solutionrelative:archivosvisual\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Sesion14\\Archivos\\ArchivosVisual\\ArchivosVisual\\Form1.cs",
+              "RelativeDocumentMoniker": "ArchivosVisual\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Sesion14\\Archivos\\ArchivosVisual\\ArchivosVisual\\Form1.cs",
+              "RelativeToolTip": "ArchivosVisual\\Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAgwEwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:49:35.979Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Sesion14\\Archivos\\ArchivosVisual\\ArchivosVisual\\Form1.cs",
+              "RelativeDocumentMoniker": "ArchivosVisual\\Form1.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\Sesion14\\ArchivosVisual\\ArchivosVisual\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\ArchivosVisual\\ArchivosVisual\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T13:44:58.568Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

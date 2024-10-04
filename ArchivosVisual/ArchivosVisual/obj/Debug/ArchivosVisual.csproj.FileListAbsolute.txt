@@ -1,0 +1,10 @@
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\bin\Debug\ArchivosVisual.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\bin\Debug\ArchivosVisual.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\bin\Debug\ArchivosVisual.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.Form1.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.Properties.Resources.resources
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.csproj.GenerateResource.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.exe
+C:\Users\USUARIO\OneDrive\Escritorio\Sesion14\ArchivosVisual\ArchivosVisual\obj\Debug\ArchivosVisual.pdb
